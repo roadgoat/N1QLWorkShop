@@ -13,6 +13,8 @@ To Create the Container, you must have Docker Version 18.03.0 or higher.  Downlo
 
 ![alt text](https://github.com/roadgoat/N1QLWorkShop/blob/master/DockerRun.png)
 
+This should take a few minutes depending on the speed of the computer running Docker.  
+
 You can connect to the Couchbase node by going to http://127.0.0.0.1:8091  
 
 User: Administrator
