@@ -19,3 +19,7 @@ User: Administrator
 Password: password
 
 ![alt text](https://github.com/roadgoat/N1QLWorkShop/blob/master/CBLogin.png)
+
+![alt text](https://github.com/roadgoat/N1QLWorkShop/blob/master/Cluster.png)
+
+![alt text](https://github.com/roadgoat/N1QLWorkShop/blob/master/rentals.png)
