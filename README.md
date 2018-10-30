@@ -18,4 +18,4 @@ You can connect to the Couchbase node by going to http://127.0.0.0.1:8091
 User: Administrator
 Password: password
 
-![alt text](https://github.com/roadgoat/AdaptiveIndexDemo/blob/master/Screen%20Shot%202018-03-30%20at%2010.14.53%20AM.png)
+![alt text](https://github.com/roadgoat/N1QLWorkShop/blob/master/CBLogin.png)
